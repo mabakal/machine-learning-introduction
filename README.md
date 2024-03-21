@@ -15,11 +15,10 @@ Tu trouveras :
 Dans cette partie je présent
 - Les types données (labélisé non labélisé)
 - Les catégories d'apprentissage
-4. [Vocabulaire](/docs/base_en_ml.md)
+5. [Vocabulaire](/docs/base_en_ml.md)
 Dans cette partie je présent
-- Les types données (labélisé non labélisé)
-- Les catégories d'apprentissage
-4. [Les fonctions mesurant les erreurs](/docs/measure_error_function.md)
-Dans cette partie je présent
-- Les types données (labélisé non labélisé)
-- Les catégories d'apprentissage
+- Quelques expression et mot avec leurs explications
+
+6. [Les fonctions mesurant les erreurs](/docs/measure_error_function.md)
+
+- Les different fonctions mesurant les erreurs des modèels
