@@ -6,12 +6,12 @@ Lorsque tu entraînez un modèle, tu peux rencontrer des anomalies, il est cruci
 #### Pour les valeurs continues
 - Mean Square Error (Erreur quadratique moyenne)
 $\text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2$
-- Root Mean Square Error (Erreur quadratique moyenne)
+- Root Mean Square Error (racine carré de l'erreur quadratique moyenne)
 $\text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2}$
 - Mean Absolute Error (Erreur absolue moyenne)
 $\text{MAE} = \frac{1}{n} \sum_{i=1}^{n} \left| y_i - \hat{y}_i \right|$
 - Rsquared (Coefficient de détermination)
-$\text{R} = 1 - \frac{\sum_{i=1}^{n} (y_i - \hat{y}_i)^2}{\sum_{i=1}^{n} (y_i - \bar{y}_i)^2}$
+$1 - \frac{\sum_{i=1}^{n}(y_i - \hat{y_i})^2}{\sum_{i=1}^{n} (y_i - \bar{y_i})^2}$
 
 #### Pour les valeurs catégoriques
 Je te présente ces notion. Pour mieux les comprendre je te donne un exemple. Supposons que tu as construit un modèle dont le but est de reconnaitre chat sur plusieurs images qu'on fait passés. Voici les cas possible de classification
