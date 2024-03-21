@@ -4,7 +4,7 @@ Donner la capacité à la machine d'apprendre sur les données et de prendre des
 
 1. [Introduis-toi à la machine learning](/docs/introduction.md)
 2. [Machine learning en détail](/docs/whatisml.md)
-Apprends
+Apprends:
 - La difference entre l'approche traditionnelle et l'approche de la machine learning
 - Les types données utilisé pour apprendre ton modèle
 - La machine se base sur l'apprentissage humain
@@ -12,8 +12,14 @@ Apprends
 Tu trouveras :
 - Les bibliothèque qu'il faut pour déveloper tes modèles, et leurs installation
 4. [Les catégories d'apprentissage machine](/docs/outils.md)
-
 Dans cette partie je présent
-
+- Les types données (labélisé non labélisé)
+- Les catégories d'apprentissage
+4. [Vocabulaire](/docs/base_en_ml.md)
+Dans cette partie je présent
+- Les types données (labélisé non labélisé)
+- Les catégories d'apprentissage
+4. [Les fonctions mesurant les erreurs](/docs/measure_error_function.md)
+Dans cette partie je présent
 - Les types données (labélisé non labélisé)
 - Les catégories d'apprentissage
