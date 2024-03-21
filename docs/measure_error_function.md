@@ -23,9 +23,9 @@ Dans le contexte des valeurs catégoriques, nous utilisons les notations suivant
 $n$ représente le nombre total d'observations.
 
 - Accuracy (Précision)
-\[ \text{accuracy} = \frac{TP}{n} \]
+$\text{accuracy} = \frac{TP}{n}$
 - Precision (Précision)
-\[ \text{precision} = \frac{TP}{TP + FP} \]
+$\text{precision} = \frac{TP}{TP + FP}$
 
 ### Matrice de Confusion
 La matrice de confusion est un outil d'évaluation de la performance d'un modèle de classification. Elle est utilisée pour mesurer le nombre de prédictions correctes et incorrectes faites par le modèle par rapport aux classes réelles.
