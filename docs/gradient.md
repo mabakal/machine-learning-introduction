@@ -1,0 +1,4 @@
+#### Gradient descent
+La descente de gradient (ou gradient descent en anglais) est un algorithme d'optimisation utilisé pour minimiser une fonction objective en ajustant itérativement les paramètres du modèle. C'est l'une des techniques d'optimisation les plus couramment utilisées dans l'apprentissage automatique et l'optimisation numérique.
+
+Le principe de la descente de gradient est de suivre la pente (ou le gradient) de la fonction objectif par petits pas successifs dans la direction qui minimise la fonction. À chaque étape, les paramètres du modèle sont ajustés dans la direction opposée au gradient de la fonction objective, ce qui permet de progressivement converger vers un minimum local ou global de la fonction.

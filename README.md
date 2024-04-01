@@ -21,4 +21,4 @@ Dans cette partie je présent
 
 6. [Les fonctions mesurant les erreurs](/docs/measure_error_function.md)
 
-- Les different fonctions mesurant les erreurs des modèels
+- Les differentes fonctions mesurant l'erreur d'un modèel
