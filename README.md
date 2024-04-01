@@ -22,3 +22,12 @@ Dans cette partie je présent
 6. [Les fonctions mesurant les erreurs](/docs/measure_error_function.md)
 
 - Les differentes fonctions mesurant l'erreur d'un modèel
+7. [Les modèles de classifications](/models/classification/)
+
+- Dans ce dossier vous trouverez le code de quelques modèle de classification fréquement utilisé
+- Pour chacun des modèles, il y a la théorie il y a un cas d'utilisation par fois en utilisant les bibliothèque ou en reprogrammant le modèles
+
+8. [Les modèles de regressions](/models/regression/)
+
+- Dans ce dossier vous trouverez des modèles de regressions utilisé
+- Pour chacun des modèles, il y a la théorie il y a un cas d'utilisation par fois en utilisant les bibliothèque ou en reprogrammant le modèles
